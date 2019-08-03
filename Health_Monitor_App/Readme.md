@@ -14,3 +14,4 @@ People do not have enough incentives to help them maintain a healthy lifestyle.
 PROPOSED SOLUTION:
 
 Our proposed solution is an integration between existing devices in the market like fitbits which monitor heart rate, steps etc and a mobile application to record and visualise user data and give them information on how to improve their lifestyle. Also, the proposed application would use music to regulate heartbeat to provide better workout and sleep cycles and implement machine learning to let the app be unique to each user.
+Project URL: https://github.com/vpranathy/Health-Monitor
