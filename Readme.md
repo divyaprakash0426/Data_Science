@@ -8,11 +8,11 @@ This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/tree/mas
 This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/tree/master/data_analysis) is an example of the Exploratory Data Analysis (EDA) step as part of the Data Science process. The notebook further explores some advanced regression techniques such as Lasso, XGBoost on the Ames Housing Dataset. Achieved MAE of 0.08.
 
 3. ### IMDB Reviews Sentiment Analysis  
-This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/blob/master/sentiment_analysis_keras.ipynb) uses Keras framework to build and train a neural network that analyzes text for sentiment. The result is a 5-layer sequential neural network with adam optimizer optimizing binary cross-entropy loss.   
+This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/tree/master/sentiment_analysis) uses Keras framework to build and train a neural network that analyzes text for sentiment. The result is a 5-layer sequential neural network with adam optimizer optimizing binary cross-entropy loss.   
 Achieved accuracy score of 88%.
 
 4. ### Text Classifier  
-This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/blob/master/Text_Classifier.ipynb) exploits a multinomial naive Bayes classification machine learning model to separate input text into one of 20 distinct categories with an accuracy of 83%. It is surprising how such a simple algorithm can yield such impressive results.
+This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/tree/master/sentiment_analysis) exploits a multinomial naive Bayes classification machine learning model to separate input text into one of 20 distinct categories with an accuracy of 83%. It is surprising how such a simple algorithm can yield such impressive results.
 
 5. ### Image Predictor  
 This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/tree/master/image_prediction) uses tensorflow and keras to construct a 5-layer sequential convolutional neural network to identify clothing types in the MNIST for Fashion dataset.
