@@ -5,7 +5,7 @@ This repository contains some of my earlier projects in the field of classical m
 This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/tree/master/image_prediction) uses a dimensionality reduction manifold learning algorithm called Isomap to visualize the points in 64-dimensional parameter space, reduced down to 2 dimensions, using an unsupervised method.
 
 2. ### House Prices Prediction  
-This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/blob/master/House_prices_prediction.ipynb) is an example of the Exploratory Data Analysis (EDA) step as part of the Data Science process. The notebook further explores some advanced regression techniques such as Lasso, XGBoost on the Ames Housing Dataset. Achieved MAE of 0.08.
+This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/tree/master/data_analysis) is an example of the Exploratory Data Analysis (EDA) step as part of the Data Science process. The notebook further explores some advanced regression techniques such as Lasso, XGBoost on the Ames Housing Dataset. Achieved MAE of 0.08.
 
 3. ### IMDB Reviews Sentiment Analysis  
 This [notebook](https://github.com/divyaprakash0426/Machine-Learning-AI/blob/master/sentiment_analysis_keras.ipynb) uses Keras framework to build and train a neural network that analyzes text for sentiment. The result is a 5-layer sequential neural network with adam optimizer optimizing binary cross-entropy loss.   
